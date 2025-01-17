@@ -1,0 +1,3 @@
+comparison operator for query-->
+equal to --> $eq
+syntax: {<field> :  {$eq : <value>}}
